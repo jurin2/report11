@@ -3,7 +3,7 @@ create database bbs_db;
 use bbs_db;
 
 create table border(
-	docNum int,
+	docNum int auto_increment,
     docTitle varchar(50) not null,
     docContent varchar(5000),
     docDate date,
