@@ -17,4 +17,3 @@ insert into border(docTitle,docContent,docDate) values('테스트4','온라인 �
 insert into border(docTitle,docContent,docDate) values('테스트5','온라인 게시판 내용보기 연습입니다. 테스트5',"2022-03-05");
 
 select * from border;
-
